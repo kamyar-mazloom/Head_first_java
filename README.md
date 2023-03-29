@@ -7,7 +7,7 @@ In this repository I'm going to keep track of my solutions to the exercises from
 ### Chapters
 
 1. ~~Breaking the surface~~ (Done)
-2. A trip to objectvile 
+2. ~~A trip to objectvile~~ (Done)
 3. Know your variables
 4. How objects behave
 5. Extra-strength methods

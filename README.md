@@ -10,7 +10,7 @@ In this repository I'm going to keep track of my solutions to the exercises from
 2. ~~A trip to objectvile~~ (Done)
 3. ‍‍‍‍‍‍‍‍~~Know your variables~~ (Done)
 4. ~~How objects behave~~ (Done)
-5. Extra-strength methods
+5. ~~Extra-strength methods~~ (Done)
 6. Using the Java library
 7. Better living in objectvile 
 8. serious polymorphism

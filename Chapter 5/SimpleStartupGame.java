@@ -7,7 +7,7 @@ Int numberOfGuesses
 String checkHit(int input)
 void setLocation(int[] startupArray)
 
-Declaration 
+Declaration 7
 
 	• DECLARE an array called startupArray with a predetermined size(in this case 7) 
 	• DECLARE  an int variable called numberOfHits set to 0
